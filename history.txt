@@ -1,0 +1,2336 @@
+vlrst
+ld
+clear
+ls
+cd AppData\Roaming\nushell\
+cleawr
+ls
+claer
+ls
+clear
+hx
+clear
+ls
+clear
+ls
+cd source\repos\chi\chi\
+cd ..
+clear
+hx
+clea
+rls
+cleart
+ls
+clear
+hx .gitignore
+clear
+hx
+hx .gitignore
+hx
+clear
+hx .gitignore
+clear
+hx
+clea
+rls
+la
+clear
+ls
+hx .gitignore
+cd source\repos\chi\chi\
+cd ..
+ls
+cat chi.sln
+echo chi.lsn
+clear
+ls
+hx chi.sln
+exit
+hx
+clear
+ls
+ls chi
+ls
+rm tset
+cat test
+rm test
+clear
+ls
+hx test
+ls
+cd source\repos\chi\
+clear
+ls
+ls ~
+clear
+hx
+clear
+ls
+cd source\repos\chi
+clear
+ls
+hx
+clear
+sl
+cd ..
+ls
+clear
+ls
+mv chi chi-cpp
+clear
+sl
+clear
+ls
+mkdir chi
+cd chi
+celar
+ls
+clear
+ls
+mkdir source
+hx source/parser.ixx
+clear
+ls
+cd ..
+ls
+clear
+ls
+rm -rf chi
+clear
+ls
+mv chi-cpp\ chi
+clear
+cd chi
+lz
+ls
+.\chi.sln
+hx
+clear
+ls
+cd chi
+clear
+ls
+rm blcok
+rm block_allocator.ixx
+clear
+hx
+clear
+ls
+cd ..
+ls
+cd hack
+clear
+ls
+hx
+hx ~\AppData\Roaming\helix\languages.toml
+hx
+clear
+ls
+cd ..
+ls
+clear
+ls
+rm -rf hack
+clear
+ls
+mkdir hack
+cd source
+cd hack
+ls
+clear
+mkdir hack
+lcea
+clear
+hx README.md
+clear
+ls
+odign
+ls
+clear
+cd source\repos\hack
+clear
+ls
+clear
+ls
+odin
+clear
+ls
+cd source\repos\hack
+clear
+odin
+clear
+odin
+clear
+ls
+ls hac
+ls hack
+clear
+ls
+cd source\repos\hack
+clear
+ls
+odin hack
+odin run hack
+clear
+odin check hack
+hx main.c
+clear
+ls
+rm main.c
+clear
+cd source\repos
+clear
+ls
+mkdir hack
+cd hack
+clear
+ls
+cd ..
+clfearf
+clear
+ls
+rm -rf hack
+clear
+ls
+cd chi
+clear
+ls
+cd chi
+clear
+ls
+hx
+cle4ar
+ls
+rm -rf x64\
+clear
+ls
+hx 
+clear
+ls
+cat diagnostics.ixx
+open diagnostics.ixx
+cleaR
+clar
+clear
+ls
+rm parser.ixx
+rm source.ixx
+clear
+ls
+clear
+ls
+cd source\respos
+cd source\repos
+clear
+ls
+exit
+hx .
+exit
+ls
+cd source\repos\chi
+clear
+hx
+clear
+ls
+cd chi
+clear
+ls
+hx parser.ixx
+clear
+ls
+cd ../../
+clear
+ls
+cd hack
+clear
+ls
+cd hack
+ls
+clear
+ls
+cd ..
+ls
+clear
+ls
+rm -rf hack
+clear
+ls
+hx
+clea
+rhx
+clea
+rhx
+lcear
+clear
+factor
+hx
+clear
+ls
+clang main.c
+clear
+cl
+winget install llvm.llvm
+clear
+ls
+clang
+hx main.c
+exit
+clear
+ls
+clear
+ls
+clang main.c
+clang
+hx main.c
+clear
+ls
+clang main.c
+clear
+ls
+clang main.c
+hx
+clear
+ls
+clang main.c
+clear
+ls
+./a.exe
+clang main.c
+./a.exe
+clear
+clang main.c
+./a.exe
+clear
+cle4ar
+clang main.c
+./a.exe
+clear
+clang main.c
+./a.exe
+clang main.c
+./a.exe
+clear
+ls
+clang main.c
+./a.exe
+clear
+clang main.c
+./a.exe
+clang main.c
+./a.exe
+clear
+clang main.c
+./a.exe
+clear
+clang main.c
+./a.exe
+clang main.c
+./a.exe
+clang main.c
+./a.exe
+clear
+clang main.c
+./a.exe
+clang main.c
+./a.exe
+clang main.c
+./a.exe
+clear
+ls
+clear
+winget
+clear
+wiget
+clear
+spotify
+obs
+hx main.c
+obs
+obs64.exe 
+clear
+ls
+clear
+cd
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clera
+ls
+clear
+ls
+cd AppData\Roaming\nushell\
+pwd
+clear
+ls
+clear
+ls
+hx env.nu
+ls
+clcear
+clear
+ls
+clear
+exit
+ls
+:S
+ls
+clear
+ls
+ls | where size > 4kb
+ls | where size > 4kb | sort size
+ls | where size > 4kb | sort-by size
+clear
+ls
+clear
+ls
+cd source\repos
+ls
+cd haci
+cd ci
+cd chi
+ls
+clear
+ls
+ls chi
+cd chi
+clear
+ls
+ls *.ixx
+clear
+ls *.ixx
+ls p*
+ls t*.ixx
+clear
+claer
+ls
+clra
+clear
+count
+clear
+ls
+open main.cpp
+rg
+grep
+clear
+ls
+hx main.c
+clear
+ls
+cd source\repos
+clear
+exit
+lks
+ls
+clear
+ls
+cd source\repos
+clear
+ls
+cd chi
+clear
+ls
+hx 
+clear
+ls
+cd chi
+ls
+hx
+cd ..
+ls
+hx .gitignore
+clear
+ls
+cd chi
+hx
+clear
+ls
+cd ../../
+clear
+ls
+cd hack
+clear
+ls
+hx
+clear
+exit
+clear
+ls
+hx main.c
+hx ~\AppData\Roaming\helix\languages.toml
+clear
+l
+ls
+hx main.c
+clear
+ls
+cd source\repos\chi
+clear
+hx
+clear
+ls
+hx chi\parser.ixx
+clear
+ls
+clear
+ls
+hx test
+hx statements
+clear
+ls
+hx
+clear
+ls
+cd chi
+celar
+ls
+clear
+ls
+rm tset
+clear
+ls
+hx types.ixx
+clear
+ls
+hx token.ixx
+cd ..
+ls
+hx test
+clear
+ls
+clear
+ls
+cd source\repos\chi
+celar
+ls
+clear
+hx
+clear
+ls
+hx
+clear
+ls
+cd chi
+sl
+ls
+mv chi.ixx chi.cpp
+clang
+clang --help
+clang --help | less
+claer
+clear
+hx chi.cpp
+clear
+ls
+cp chi.cpp chi.cpp-backup
+clear
+ls
+open chi.cpp
+open chi.cpp | rg "\n\r"
+winget install ripgrep
+wingetinstall burntsushi.ripgrep.msvc
+winge tinstall burntsushi.ripgrep.msvc
+wingetinstall burntsushi.ripgrep.msvc
+winget install burntsushi.ripgrep.msvc
+rg
+clear
+ls
+open chi.cpp | rg "\n\r"
+open chi.cpp | rg --multiline "\n\r"
+open chi.cpp | str
+str replace
+open chi.cpp | str replace "\n\r" "\n"
+open chi.cpp | str replace "\n\r" "\n" | save chi.cpp
+ls
+open chi.cpp | str replace "\n\r" "\n" | save chi.cpp-l
+clear
+ls
+mv chi.cpp-l chi.cpp
+rm chi.cpp
+mv chi.cpp-l chi.cpp
+clear
+ls
+hx chi.cpp
+clear
+exit
+clear
+ls
+cd source\repos\hack
+clear
+ls
+hx main.c
+clear
+hx simd.c
+clear
+ls
+clang main.c -mavx -mavx2
+objdum p
+objdump
+dump
+dumpbin
+celar
+clear
+ls
+hx
+clear
+exit
+cd source\repos\hack
+hx
+cler
+ls
+clear
+sl
+clearq
+cler
+ls
+clear
+ls
+cd source\repos
+ls
+git cloen https://github.com/google/benchmark
+git clone https://github.com/google/benchmark
+cd benchmark
+ls
+clear
+ls
+clear
+clear
+ls
+cd src
+ls
+clear
+ls
+cd 
+ls
+cd source\repos\benchmark\
+clear
+cmake -D make_directory "build"
+winget install cmake
+cmake -E make_directory "build"
+cmake
+clear
+ls
+cd source\repos\benchmark\
+cmake -E make_directory "build"
+cmake -E chdir "build" cmake -DBENCHMARK_DOWNLOAD_DEPENDENCIES=on -DCMAKE_BUILD_TYPE=Release ../
+cmake --build "build" --config Release
+cmake --build "build" --config Release --target install
+clear
+cmake --build "build" --config Release --target install
+cd source\repos\benchmark\
+cmake --build "build" --config Release --target install
+cd source\repos\hack
+hx
+clear
+eixt
+exit
+clear
+ls
+cd source\repos\hack
+clear
+ls
+clear
+ls
+.\pin.exe
+git clone https://github.com/google/benchmark
+clear
+ls
+git clone https://github.com/focus-editor/focus
+cd focus
+clear
+ls
+hx
+exit
+lsa
+clear
+ls
+cd source\repos\hack
+hx
+cd ..
+clear
+git clone https://github.com/kimhyr/blog.github.io
+git clone https://github.com/kingemhyr/blog.github.io
+clear
+ls
+cd blog.github.io\
+clear
+ls
+cd ..
+ls
+mkdir kingemhyr
+mv blog.github.io\ kingemhyr\
+clear
+ls
+cd king
+cd kingemhyr\
+clear
+ls
+cd blog.github.io\
+ls
+clear
+hx
+c;ea
+clear
+ls
+touch
+touch _config.yml
+hx _config.yml
+clear
+ls
+winge tinstall powertoys
+winget install powertoys
+winge tinstall Microsoft.PowerToys
+winget install Microsoft.PowerToys
+hx README.md
+cl;ear
+clear
+hx README.md
+clear
+ls
+mkdir projects
+clear
+ls
+touch projects/chi.md
+hx projects\chi.md
+clear
+exit
+cd source\repos\kingemhyr\blog.github.io\
+clear
+ls
+hx
+clear
+sl
+git add -A
+git commit -a
+git config --global user.email "kinglanchester@gmail.com"
+git config --global user.name "King Emhyr"
+git commit -a
+git push
+clear
+c;lear
+clear
+ls
+hx
+git commit -a
+git push
+clear
+exit
+clear
+ls
+cd source\repos\kingemhyr\blog.github.io\
+hx README.md
+clear
+exit
+cd source\repos\kingemhyr\blog.github.io\
+clear
+cd source\repos\hack
+ls
+hx README.md
+clear
+git add -A
+git commit -a
+git push
+clear
+ls
+mkdir assets
+rm assets\
+mkdir images
+clear
+ls
+./
+clear
+ls
+hx _config.yml
+git add -A
+git commit -a
+git push
+exit
+hx bruh
+exit
+ssh
+clear
+ssh
+ssh k@192.168.1.240
+ssh-keygen
+clear
+ssh-copy-id k@192.168.1.240
+ssh-copy-id
+ssh k@192.168.1.240
+ssh k@emhyr
+ssh k@192.168.1.240
+ssh
+ssh (New-Object Security.Principal.WindowsPrincipal([Security.Principal.WindowsIdentity]::GetCurrent())).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)
+(New-Object Security.Principal.WindowsPrincipal([Security.Principal.WindowsIdentity]::GetCurrent())).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)
+clear
+ssh k@192.168.1.240
+ssh k@emhyr
+clear
+ssh k@emhyr
+ssh root@emhyr
+clear
+ssh-keygen -t rsa -P ""
+clear
+ssh root@emhyr
+clear
+ssh root@emhyr
+clear
+ssh k@emhyr
+clear
+ssh k@emhyr
+ssh k@192.168.1.240
+ssh
+clear
+ssh k@emhyr
+2484
+24824
+24824q
+clear
+CON
+touch CON
+clewar
+ls
+rm con
+clear
+touch CON1
+ls
+cat CON1
+open CON1
+rm CON1
+clear
+reboot
+ssh k@emhyr
+clear
+ssh k@emhyr
+$
+$USERNAME
+ssh k@emhyr
+ssh-copy-id
+ssh k@emhyr
+clear
+exit
+ssh-copy-id
+clear
+ls
+hx ssh-copy-id
+ssh k@emhyr
+ssh k@192.168.1.240
+cclear
+cls
+ls
+cd source\repos\hack
+ls
+clear
+hx
+clear
+ls
+rm -rf benchmark
+clear
+ls
+cat bruh
+open bruh
+hx bruh
+clear
+ls
+cd core
+ls
+hx
+clear
+cd ../../
+clear
+ls
+git clone https://github.com/google/benchmark
+cd bnechmark
+cd benchmark
+clear
+ls
+.\CMakeLists.txt
+clear
+gcc
+clear
+ls
+clear
+hx bruh.nu
+clear
+ls
+./bruh.nu
+nu bruh.nu
+cmake --build "build" --config Release --target install
+clear
+ls
+cd benchmark
+cmake --build "build" --config Release --target install
+cd source\repos\benchmark\
+cd benchmark\
+cmake --build "build" --config Release --target install
+cd source\repos\hack
+hx
+cd ..\benchmark\
+l
+ls
+clear
+cd benchmark
+clear
+ls
+clear
+cmake -E make_directory "build"
+cmake -E chdir "build" cmake -DBENCHMARK_STATIC_DEFINE -DBENCHMARK_DOWNLOAD_DEPENDENCIES=on -DCMAKE_BUILD_TYPE=Release ../
+clear
+hx
+cmake -E chdir "build" cmake -DBENCHMARK_STATIC_DEFINE= -DBENCHMARK_DOWNLOAD_DEPENDENCIES=on -DCMAKE_BUILD_TYPE=Release ../
+cmake -E chdir "build" cmake -DBENCHMARK_STATIC_DEFINE=on -DBENCHMARK_DOWNLOAD_DEPENDENCIES=on -DCMAKE_BUILD_TYPE=Release ../
+hx
+clear
+cmake -E chdir "build" cmake -DBENCHMARK_STATIC_DEFINE -DBENCHMARK_DOWNLOAD_DEPENDENCIES=on -DCMAKE_BUILD_TYPE=Release ../
+cmake -E chdir "build" cmake -DBENCHMARK_DOWNLOAD_DEPENDENCIES=on -DCMAKE_BUILD_TYPE=Release ../
+cmake --build "build" --config Release
+cd source\repos\benchmark
+cd benchmark; cmake --build "build" --config Release --target install
+cd source\repos\hack
+clear
+git init
+git add -A
+git commit -a
+git add -A
+\clear
+ls
+clear
+ls
+la
+ls -la
+rm -rf .vs bruh hack.sln x64
+clear
+ls
+cd core
+ls
+rm core*
+clear
+ls
+rm -rf x64
+clear
+ls
+cd ..
+ls
+ls -a
+rm -rf .git
+mv core hack
+clear
+ls
+git init
+git add -A
+git commit -a
+git branch
+git remote add origin https://github.com/hack
+git remote remove origin
+git remote add origin https://github.com/kingemhyr/hack
+git push -u origin master
+clear
+ls
+clear
+ls
+cd source\repos\hack
+clear
+ls
+hx
+clear
+cd ..
+ls
+rm -rf hack
+clear
+exit
+clear
+exit
+clear
+ls
+clear
+cd source\repos
+clear
+ls
+cd source\repos\
+clea
+rls
+clear
+ls
+clang sln.cpp
+ls
+./a.exe
+clang sln.cpp
+./a.exe
+xmake
+clang sln.cpp
+./a.exe
+clang sln.cpp
+./a.exe
+clang sln.cpp
+./a.exe
+clang sln.cpp
+./a.exe
+clang sln.cpp
+./a.exe
+clang sln.cpp
+./a.exe
+clear
+clang sln.cpp
+./a.exe
+clang sln.cpp
+./a.exe
+clang sln.cpp
+./a.exe
+clang sln.cpp
+./a.exe
+clear
+clang sln.cpp
+./a.exe
+clear
+clang sln.cpp
+./a.exe
+hx
+hx 
+clear
+ls
+hjx
+hx
+hx sln.cpp
+clear
+ls
+cd chi
+ls
+hx
+clear
+ls
+clear
+ls
+hx
+cd ..
+ls
+clear
+ls
+hx sln.cpp
+clear
+ls
+clear
+ls
+xmkae
+clear
+ls
+mkdir bruh
+cd bruh
+clear
+ls
+hx .clangd
+clear
+ls
+clear
+ls
+cd source\repos
+ls
+cd bruh
+clear
+ls
+clang++ -std=c++20 main.cpp
+.\a.exe
+clear
+clang sln.cpp
+clang++ -std=c++20 main.cpp
+./a.exe
+clear
+clang++ -std=c++20 main.cpp
+./a.exe
+clear
+clang++ -std=c++20 main.cpp
+./a.exe
+hx main.cpp
+clear
+ls
+rm young_physicist.cpp
+clear
+ls
+hx include.h
+clar
+ls
+clear
+ls
+rm beautiful_matrix.cpp
+clang++ -std=c++20 main.cpp
+./a.exe
+clear
+clang++ -std=c++20 main.cpp
+./a.exe
+clang++ -std=c++20 main.cpp
+./a.exe
+clang++ -std=c++20 main.cpp
+./a.exe
+clear
+clang++ -std=c++20 main.cpp
+./a.exe
+clang++ -std=c++20 main.cpp
+./a.exe
+cleawr
+clear
+hx
+clear
+ls
+rm 0
+hx queue_at_the_school.cpp
+clear
+ls
+mv queue_at_the_school.cpp queue_at_the_school.h
+clear
+cd source\repos
+cd bruh
+clear
+clang++ -std=c++20 main.cpp
+./a.exe
+clear
+clang++ -std=c++20 main.cpp
+./a.exe
+clang sln.cpp
+clang++ -std=c++20 main.cpp
+./a.exe
+clear
+clang++ -std=c++20 main.cpp
+./a.exe
+clear
+clang++ -std=c++20 main.cpp
+./a.exe
+clang++ -std=c++20 main.cpp
+./a.exe
+clang++ -std=c++20 main.cpp
+./a.exe
+clang++ -std=c++20 main.cpp
+./a.exe
+clear
+clang++ -std=c++20 main.cpp
+./a.exe
+clear
+1kjclear
+clear
+clang++ -std=c++20 main.cpp
+./a.exe
+clang++ -std=c++20 main.cpp
+./a.exe
+clang++ -std=c++20 main.cpp
+./a.exe
+clang++ -std=c++20 main.cpp
+./a.exe
+clear
+clang++ -std=c++20 main.cpp
+./a.exe
+clang++ -std=c++20 main.cpp
+./a.exe
+clear
+clang++ -std=c++20 main.cpp
+./a.exe
+./a.execlear
+lear
+clear
+clang++ -std=c++20 main.cpp
+./a.exe
+clear
+clang++ -std=c++20 main.cpp
+./a.exe
+clear
+hx queue_at_the_school.h
+clear
+ls
+hx beautiful_matrix.h
+clear
+ls
+clang++ -std=c++20 main.cpp
+./a.exe
+clang
+clang++ -std=c++20 main.cpp
+./a.exe
+clear
+clang++ -std=c++20 main.cpp
+./a.exe
+clear
+hx borze.h
+clear
+ls
+clear
+ls
+clear
+ls
+hx beautiful_matrix.h
+clear
+ls
+mv beautiful_year.h codeforces/271/a-beautiful_year.cpp
+mkdir codeforces/271
+clear
+ls
+mv beautiful_year.h codeforces/271/a-beautiful_year.cpp
+clear
+ls
+ls codeforces\
+clear
+ls
+clear
+ls
+cd codeforces\
+ls
+clear
+ls
+mv `271\a-beautiful_year.cpp` `271a-beautiful_year.cpp`
+clear
+ls
+rm 271 -rf
+cl4ear
+clear
+ls
+hx `271a-beautiful_year.cpp`
+clear
+ls
+hx `271a-beautiful_year.cpp`
+clear
+ls
+cd ..
+ls
+mv young_physicist.h codeforces\69a-young_physicist.cpp
+clear
+ls
+mv beautiful_matrix.h codeforces\263a-beautiful_matrix.cpp
+clear
+ls
+clear
+ls
+mv queue_at_the_school.h codeforces\266b-queue_at_the_school.cpp
+clear
+ls
+mv borze.h codeforces\32b-borze.cpp
+clear
+ls
+hx 
+clear
+ls
+clear
+ls
+hx
+clear
+ls
+cd ..
+ls
+clear
+ls
+mv bruh cp
+clear
+ls
+ls cp
+ls bruh
+ls bruh\codeforces\
+clear
+ls
+ls cp/*
+ls cp\codeforces\
+clear
+ls
+rm bruh
+clear
+ls
+rm -rf bruh
+clear
+ls
+rm -rf bruh
+clear
+ls
+clear
+ls
+cd cp
+clear
+ls
+cat main.cpp
+open main.cpp
+rm main.cpp
+clear
+ls
+clear
+ls
+clear
+ls
+make
+clear
+winge install xmake
+winget install xmake
+clear
+ls
+rm a.exe
+nushell
+exit
+nu
+exit
+nu
+exit
+hx run.nu
+clear
+ls
+mkdir binaries
+clear
+ls
+find
+clea
+rls
+clear
+ls
+cd source\repos
+clear
+ls
+find .
+help find
+ls
+ls --help
+clear
+ls sln.cpp
+ls f
+echo $status
+echo $0
+clear
+ls
+cd cp
+clear
+ls
+nu run.nu
+nu run.nu m
+test
+exists
+clea
+clear
+nu run.nu m
+clear
+ls
+clang++ -std=c++20 main.cpp
+nu run.nu codeforces\263a-beautiful_matrix.cpp
+clear
+nu run.nu codeforces\263a-beautiful_matrix.cpp
+clear
+nu run.nu codeforces\263a-beautiful_matrix.cpp
+ls
+clear
+nu run.nu codeforces\263a-beautiful_matrix.cpp
+nu run.nu codeforces\266b-queue_at_the_school.cpp
+clear
+ls
+echo $c
+echo $cc
+print $cc
+print "($cc)"
+ls
+claer
+ls
+clear
+ls
+ls binaries\
+clear
+ls
+rm -rf binaries\
+clear
+ls
+nu run.nu codeforces\266b-queue_at_the_school.cpp
+ls
+nu run.nu codeforces\266b-queue_at_the_school.cpp
+ls
+clear
+hx run.nu
+clear
+ls
+clear
+ls
+clear
+ls
+hx main.cpp
+clear
+ls
+rm main.cpp
+clear
+ls
+hx run.nu
+clear
+ls
+nu run.nu codeforces\266b-queue_at_the_school.cpp
+hx run.nu
+clear
+nu run.nu codeforces\266b-queue_at_the_school.cpp
+ls
+./a.exe
+clear
+lclear
+clear
+ls
+hx run.nu
+cxlear
+ls
+clear
+ls
+nu run.nu
+nu run.nu codeforces\263a-beautiful_matrix.cpp
+clearf
+clear
+ls
+hx module.modulemap
+clear
+l
+clear
+ls
+hx run.nu
+clear
+ls
+nu run.nu codeforces\263a-beautiful_matrix.cpp
+hx
+hx 
+nu run.nu codeforces\263a-beautiful_matrix.cpp
+clear
+ls
+rm module.modulemap
+clear
+ls
+hx run.nu
+clear
+clang++ -c -o include.pch include.h -std=c++20
+ls
+clar
+clear
+ls
+rm a.exe
+clear
+ls
+hx run.nu
+clear
+ls
+nu run.nu codeforces\263a-beautiful_matrix.cpp
+clang++ -c -o include.pch include.h -std=c++20 -O3
+nu run.nu codeforces\263a-beautiful_matrix.cpp
+clear
+exit
+nu run.nu codeforces\69a-young_physicist.cpp
+clear
+ls
+hx run.nu
+clear
+ls
+cd source\repos\cp
+clear
+ls
+nu run.nu codeforces\69a-young_physicist.cpp
+ls
+rm a.exe
+nu run.nu codeforces\69a-young_physicist.cpp
+clear
+ls
+nu run.nu codeforces\69a-young_physicist.cpp
+ls
+nu run.nu codeforces\69a-young_physicist.cpp
+ls
+nu run.nu codeforces\69a-young_physicist.cpp
+clear
+ls
+clear
+hx run.nu
+clear
+ls
+rm a.exe
+clear
+ls
+hx run.nu
+clear
+ls
+git add -A
+git init
+git add -A
+git branch
+git branch 
+git branch list
+git branch --list
+clear
+ls
+git list
+clear
+ls
+git add -A
+git commit -a
+git remote add origin https://github.com/kingemhyr/cp
+git push -u origin master
+clear
+ls
+hx .gitignore
+rm include.pch codeforces\*.exe
+clera
+ls
+clear
+ls
+git add -A
+git commit -a
+git push
+clear
+ls
+clear
+ls
+cd ..
+clear
+ls
+celar
+sl
+cd source\repos\cp
+clea
+rls
+clear
+ls
+mkdir usaco
+clear
+ls
+h usaco/2023b3-rotate_and_shift.cpp
+clear
+sl
+cd source\repos\cp
+clear
+ls
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+ls
+ls usaco\
+.\usaco\2023b3-rotate_and_shift.cpp.exe
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+ls
+hx run.nu
+clear
+ls
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+hx run.nu
+clear
+ls
+ls | get 
+ls | get modified
+hx run.nu
+clear
+ls
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+ls
+clear
+hx run.nu
+clear
+ls
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+ls
+cd source\repos\cp
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+cl4ear
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+5 3 4
+./a.exe
+clar
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+0 2 3
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clkear
+ls
+clear
+ls
+hx run.nu
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+ls
+rm usaco\2023b3-rotate_and_shift.cpp.exe
+clear
+ls
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+hx run.nu
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+ls
+rm include.pch
+hx run.nu
+clear
+ls
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+ls
+hx run.nu
+clea
+rls
+clear
+ls
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+ls
+rm include.pch
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+0 2 3
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+hx usaco/2023b3-rotate_and_shift.cpp
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+lear
+clear
+ls
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+claer
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+lear
+clear
+ls
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+ls
+rm include.pch
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+cd source\repos\cp
+clear
+ls
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+rm include.pch
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+rm include.pch
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+rm include.pch
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+cl4ar
+ls
+clear
+ls
+rm include.h
+clear
+ls
+clear
+ls
+hx run.nu
+clear
+ls
+rm include.pch
+clear
+ls
+clear
+ls
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+ls
+hx run.nu
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+ls
+rm pch.pch
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+ls
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+ls
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+ls
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+type
+test
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+help >
+help gr
+clea
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+help into
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+cler
+hx usaco\2023b3-rotate_and_shift.cpp
+clear
+git add -A
+git commit -a
+git push
+ls
+hx .gitignore
+hx run.nu
+clear
+git add -A
+git commit -a
+git puhs
+git push
+py
+python
+c;ear
+clear
+ls
+hx main.cpp
+clear
+ls
+clang++ main.cpp
+./a.exe
+lear
+ls
+clear
+ls
+rm main.cpp
+cl4ear
+clear
+ls
+hx
+clear
+ls
+hx usaco\2023b2-moo_language.cpp
+clear
+cd ..
+ls
+clear
+exit
+exit
+cldar
+clear
+ls
+cd source\repos\cp
+celar
+ls
+clear
+ls
+cd ...
+ls
+cd repos
+ls
+cd cp
+clear
+ls
+fin d.
+find .
+fd .
+clear
+ls
+clear
+ls
+clear
+ls
+cd source\repos\cpc
+elar
+cd source\repos\cpc
+cd source\repos\cp
+clear
+ls
+nu run.nu usaco\2023b3-rotate_and_shift.cpp
+clear
+ls
+clang++ main.cpp
+clear
+./a.exe
+ckear
+clear
+./a.exe
+clear
+./a.exe
+clear
+ls
+clear
+clang++ main.cpp
+./a.exe
+clang++ main.cpp
+./a.exe
+h
+hx
+clear
+ls
+mv main.cp main.cpp
+hx main.cpp
+clear
+ls
+clear
+ls
+cd source\repos\l
+cd source\repos\
+ls
+cd blog
+clear
+ls
+cd kingemhyr\
+ls
+clea
+rls
+hx
+clear
+ls
+rm -rf blog.github.io\
+clear
+git clone https://github.com/kingemhyr/blog
+cd blog
+clea
+rhx
+clear
+hx 
+clea
+rls
+hx ~\main.kai
+git add _QA
+git add -A
+git commit -a
+git push
+clear
+ls
+hx
+git add -A
+git commit -a
+hx kai.md
+git add -A
+git commit -a
+git push
+hx kai.md
+git add -A
+git commit -a
+it push
+git puhs
+git push
+clear
+exit
+cd source\repos\kingemhyr\blog
+clea
+rls
+hx
+git add -A
+git commit -a
+it push
+git push
+ls
+la
+clea
+rls
+clear
+ls
+paru
+clear
+cargo
+clear
+ls
+winget install rust
+winget install coreutils
+winget install rustup
+rustup
+clear
+exit
+rustup
+rustup default stable
+cargo
+cargo install coreutils
+mkdir
+clear
+ls
+clear
+ll
+clear
+ls
+fd
+find
+clear
+find .
+find 
+ls
+exit
+cd source\repos
+ls
+clear
+ls
+clar
+ls
+clear
+ls
+clear
+ls
+rm *
+rm -rf *
+clear
+ls
+clear
+ls
+winget search intellij
+clear
+ls
+clear
+sl
+cd
+ls
+clear
+ls
+rm -rf soruce
+rm -rf source
+clea
+rls
+clear
+ls
+cd Desktop
+clear
+ls
+cd D:\
+ls
+cd
+clear
+ls
+mkldir Projects
+mkdir Projects
+cd Projects
+clear
+ls
+clear
+ls
+clera
+hx main.java
+clear
+winget install intellij
+winget search intellij
+nvim
+winget install JetBrains.IntelliJIDEA.Community
+winget install emacs
+ls
+clear
+cd
+lks
+la
+ls
+clear
+ls
+cd AppData\Roaming\nushell\
+ls
+cd ..
+ls
+cd .emacs.d\
+clear
+ls
+la
+ls
+clear
+ls
+hx init.el
+clear
+ls
+hx init.el
+clear
+ls
+hx init.el
+claer
+hx init.el
+exit
+clear
+cd AppData\Roaming\.emacs.d\
+hx init.el
+clear
+exit
+winget install neovide
+ls
+clear
+ls
+cd Proejcts
+ls
+clear
+cd Projects
+ls
+nmvim
+nvim
+clea
+winget install neovim
+exit
+clear
+cd AppData\Roaming\
+ls
+cd ..\Local\nvim-data\
+cd ../
+ls
+mkdir nvim
+cd nivm
+cd nvim
+clear
+ls
+clewar
+ls
+nivm init.lua
+clewar
+nvim init.lua
+clear
+ls
+nvim init.lua
+nvim
+clear
+ls
+nivm init.lua
+nvim init.lua
+clea
+rls
+clea
+nvim init.lua
+clea
+rls
+clewar
+nvim init.lua
+clear
+nvim
+clea
+rls
+clear
+ls
+nivm init.lua
+nvim init.lua
+clear
+nvim init.lua
+clea
+cl4ear
+clear
+nvim init.lua
+clewar
+clea
+nvim init.lua
+clea
+nvim init.lua
+nvim
+nvim init.lua
+clea
+rls
+cd
+clea
+rls
+clear
+ls
+cd AppData\Roaming\nvim
+cd AppData\local\nvim
+clea
+rls
+clewar
+nvim init.lua
+clea
+clear
+nvim
+exit
+nvim
+nvim init.lua
+nvim
+nvim init.lua
+nvim
+nvin init.lua
+nvim init.lua
+nvm
+nvim 
+nvim
+clear
+nu --help
+clear
+ls
+exit
+ls
+clear
+i
+clear
+ls
+cd Projects\hack\
+clear
+ls
+cd AppData\local\nvim
+ls
+nvim init.lua
+ls
+clang
+clang main.c
+cl4ear
+ls
+clear
+xmake create
+ls
+mv hack/* .
+rm -rf hback
+rm -rf hac
+clear
+ls
+rm main.c
+cd Projects\Hack
+ls
+clear
+ls
+mv src source
+rm -rf hack
+cd src
+ls
+cd source
+ls
+mv main.cpp main.c
+cd ..
+ls
+clear
+xmake check
+xmake 
+xmake
+xmake r
+exit
+xmake
+clear
+xmake
+clear
+xmake
+xmake -v
+ls
+rm -rf hack
+clear
+mkdir hack
+cd hack
+clear
+ls
+cd ..
+rm -rf hack
+ls
+rm -rf hack
+clear
+rm -rf hack
+ls
+clear
+ls
+kj:vs
+exit
+clear
+ls
+rm hack.sln x64 
+rm hack.sln x64  -rf
+ls
+cd hack
+ls
+rm hack.*
+rm -rf x64
+ls
+cd ..
+l
+ls
+cd hack
+sl
+ls
+mkdir windows.h
+cd ..
+ls
+cd Projects/hack
+ls
+touch xmake.lua
+hx xmake.lua
+neovide
+neovide .
+rm hack\windows.h
+ls
+cd hack
+ls
+rm include.h 
+ls
+rm memoryh.h
+exit
+ls
+git clone https://github.com/kingemhyr/blog
+cd blog
+ls
+git add _A
+git add -A
+git commit -a
+git push
+cd hack
+ls
+rm windowing.cpp
+clar
+ls
+rm types.h
+ls
+clear
+ls
+rm input.cpp
+clear
+ls
+rm input.h memory.h
+clear
+ls
+rm windows.h
+ls
+cd hack
+ls
+rm windowing.*
+xmake
+cd ..
+clear
+xmake
+clang++
+xmake
+clear
+xmake
+rm -rf .vs
+xmake f -m debug
+xmake
+rm -rf .vs
+clear
+ls
+xmake
+xmake clean
+xmake
+hx .gitignore
+xmake
+clear
+ls
+xmake
+git clone https://github.com/
+git clone https://github.com/dion-systems/4coder
+exit
+cd hack
+sl
+ls
+rm windowing.h
+xmake
+cd .
+cd ..
+xmake clean
+xmake
+xmak
+xmake
+xmake clean
+xmake
+cd ../blog
+clear
+ls
+git add -Am "."
+git add -am "."
+git commit -am "."
+git push
+exit
+xmake
+xmake -v
+xmake
+xmake lcean
+xmake
+cd hack
+ls
+mv main.h _main.h
+ls
+rm *.inc
+ls
+cdhack
+ls
+cd hack
+ls
+rm types
+rm types.h
+ls
+cd Projects/hack
+claer
+ls
+clear
+ls
+cdo
+clear
+ls
+xmake
+clear
+xmake
+xmake clean
+xmake
+clear
+xmake
+xmake clean
+xmake
+clear
+ls
+cd hack
+ls
+mv _main.h main.h
+mv _main-update.h main-update.h
+ls
+clear
+ls
+la
+ls
+cd ..
+rm 3
+ls
+xmake
+xmake check
+cd hack
+ls
+clear
+ls
+mv main.win32.h main.windows.cpp
+exit
+ls
+cd hack
+ls
+mv main.windows.cpp main.windows.h
+mv memory.win32.h memory.windows.h
+cd hack
+ls
+rm windowing.h main.windows.h 
+rm main-update.h
+rm main.h
+msinfo
+systeminfo
+Get-WmiObject -Class Win32_Processor | Select-Object -Property *
+wsl --update
+Installing: Windows Subsystem for LinuxInstalling: Windows Subsystem for Linux[==========================89.0%====================       ],nm,n
+ls
+cd Projects/hack
+ls
+cd ..
+ls
+cd
+ls
+cd VulkanSDK\
+ls
+la
+ls -a
+./
+ls
+cd AppData\Local\nvim
+ls
+rm 2
+git init
+git add -A
+git remote add origin https://github.com/kingemhyr/nvim
+git add -A
+gi commit -am
+git commit -am "."
+git push
+git push -u origin master
+cd ../../Roaming
+ls
+cd nushell
+ls
+git add -A
+git commit -am "."
+git init
+git add _A
+git commit -am "."
+git add -A
